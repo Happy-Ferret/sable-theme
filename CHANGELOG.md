@@ -2,6 +2,11 @@
 
 All notable changes to the "sable" extension will be documented in this file.
 
+## [0.0.2]
+
+#### Added
+* Extension icon
+
 ## [0.0.1]
 
 #### Initial release
