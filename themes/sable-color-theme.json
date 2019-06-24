@@ -284,7 +284,7 @@
         {
             "scope": "comment",
             "settings": {
-                "foreground": "#554ca5"
+                "foreground": "#5b51b4"
             }
         },
         {
@@ -309,6 +309,33 @@
             ],
             "settings": {
                 "foreground": "#b96eb6e5",
+            }
+        },
+        {
+            "name": "TypeScript Interface",
+            "scope": [
+                "entity.name.type.interface.ts",
+            ],
+            "settings": {
+                "foreground": "#b96eb6e5",
+            }
+        },
+        {
+            "name": "TypeScript Constant",
+            "scope": [
+                "variable.other.constant.ts",
+            ],
+            "settings": {
+                "foreground": "#F97500",
+            }
+        },
+        {
+            "name": "TypeScript Async",
+            "scope": [
+                "storage.modifier.async.ts",
+            ],
+            "settings": {
+                "foreground": "#c586c0",
             }
         },
         {
